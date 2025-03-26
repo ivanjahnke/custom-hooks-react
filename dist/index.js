@@ -1,4 +1,5 @@
 export { useClickOutside } from "./hooks/useClickOutside";
+export { useCopyToClipboard } from "./hooks/useCopyToClipboard";
 export { useDebounce } from "./hooks/useDebounce";
 export { useDisableRightClick } from "./hooks/useDisableRightClick";
 export { useLocalStorage } from "./hooks/useLocalStorage";
