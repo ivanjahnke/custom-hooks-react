@@ -2,6 +2,7 @@ export { useClickOutside } from "./hooks/useClickOutside";
 export { useCopyToClipboard } from "./hooks/useCopyToClipboard";
 export { useDebounce } from "./hooks/useDebounce";
 export { useDisableRightClick } from "./hooks/useDisableRightClick";
+export { useKeyPress } from "./hooks/useKeyPress";
 export { useLocalStorage } from "./hooks/useLocalStorage";
 export { useOnlineStatus } from "./hooks/useOnlineStatus";
 export { useSpeechStop } from "./hooks/useSpeechStop";
