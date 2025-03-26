@@ -1,6 +1,6 @@
 {
   "name": "custom-hooks-react",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Colección de hooks personalizados para React",
   "main": "dist/index.js",
   "module": "dist/index.js",
